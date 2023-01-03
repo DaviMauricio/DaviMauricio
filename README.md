@@ -6,4 +6,6 @@
 - 📚 Graduando Ciência da computação!
 - 💻 Full Stack Developer!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMauricio)](https://github.com/anuraghazra&show_icons=true/github-readme-stats)
+
 
