@@ -30,6 +30,6 @@
   <a href="https://discord.gg/YXZxreeZNJ" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
   <a href="https://api.whatsapp.com/send?phone=5581995383314&text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20github%20%F0%9F%99%82!" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
   
-  ![Snake animation](https://github.com/rafaballerini/DaviMauricio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DaviMauricio/DaviMauricio/blob/output/github-contribution-grid-snake.svg)
   
 </div>
