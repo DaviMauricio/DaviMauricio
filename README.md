@@ -4,7 +4,7 @@
 
 - 💻 Técnico em Análise e desenvolvimento de sistemas!
 - 📚 Graduando Ciência da computação!
-- 💻 Full Stack Developer!
+- 💻 backend Developer!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMauricio&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMauricio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
